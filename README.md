@@ -1,2 +1,2 @@
-# flask_blank
-A basic flask web-application structure
+# fin_o
+A web-application for finance orginizing. The technologies are used: AngularJS & Flask
